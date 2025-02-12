@@ -15,7 +15,7 @@ Week 1: Basics of Verilog
 
     Day 1: Basic Logic Gates - Implement AND, OR, and NOT gates using Verilog.
     Day 2: Combinational Circuits - Design a half adder & full adder.
-    Day 3: Combinational Circuits - Design a 2-to-1 multiplexer (MUX).
+    Day 3: Combinational Circuits - Design a 4-to-1 multiplexer (MUX).
     Day 4: Decoders - Implement a 2-to-4 decoder.
     Day 5: Encoders - Design a priority encoder.
     Day 6: Comparators - Create a 1-bit comparator circuit.
