@@ -13,8 +13,8 @@ By the end of this challenge, you will have:
     
 Week 1: Basics of Verilog
 
-    Day 1: Introduction to Verilog - Write your first Hello, Verilog! module.
-    Day 2: Basic Logic Gates - Implement AND, OR, and NOT gates using Verilog.
+    Day 1: Basic Logic Gates - Implement AND, OR, and NOT gates using Verilog.
+    Day 2: Combinational Circuits - Design a half adder & full adder.
     Day 3: Combinational Circuits - Design a 2-to-1 multiplexer (MUX).
     Day 4: Decoders - Implement a 2-to-4 decoder.
     Day 5: Encoders - Design a priority encoder.
