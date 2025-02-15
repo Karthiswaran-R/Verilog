@@ -19,7 +19,7 @@ Week 1: Basics of Verilog
     Day 4: Decoders - Implement a 2-to-4 decoder.
     Day 5: Encoders - Design a priority encoder.
     Day 6: Comparators - Create a 1-bit comparator circuit.
-    Day 7: Simulation Basics - Simulate your MUX and decoder circuits using a testbench.
+    Day 7: 16x1 MUX using Dataflow Modeling
 
 Week 2: Sequential Circuits
 
@@ -36,7 +36,7 @@ Week 3: Advanced Design Concepts
     Day 15: Arithmetic Circuits - Design a 4-bit adder/subtractor.
     Day 16: ALU - Create a basic Arithmetic Logic Unit (ALU) supporting ADD, SUB, AND, OR, and XOR operations.
     Day 17: Multipliers - Implement a 4x4 binary multiplier using shift-and-add.
-    Day 18: Sequential Multiplier - Design a sequential multiplier for optimized area.
+    Day 18: Sequential Multiplier - Design a sequential multiplier for the optimized area.
     Day 19: Pipelining - Implement a 2-stage pipelined adder.
     Day 20: State Machine Design - Create an FSM for a vending machine.
     Day 21: Debugging Practice - Debug a provided faulty Verilog module.
