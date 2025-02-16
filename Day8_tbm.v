@@ -23,3 +23,35 @@ initial begin
 end
 //End of the Module
 endmodule
+
+
+//Test Bench JK_Flipflop Module Declartion
+module tb_jk_ff;
+//Port Declaration
+reg j, k, clk;
+wire q, qn;
+//Module Instantiation
+jk_ff dut1(.q(q), .qn(qn), .clk(clk), .j(j), .k(k));
+//To Generate clock
+initial begin
+	clk = 0;
+	forever #5 clk = ~clk;
+end
+//Test Cases
+initial begin
+	j = 1; k = 0;
+	#10 j = 0; k = 1;
+	#10 j = 0; k = 0;
+	#10 j = 1; k = 1;
+	#40 $finish;
+end
+//To Monitor the input & output
+initial begin
+$monitor("|  j=%b  |  k=%b  |  q=%b  |  qn=%b  |",j, k, q, qn);
+end
+//To Generate the Waveform
+initial begin
+	$dumpfile("tb_jk_ff.vcd");
+	$dumpvars(0,tb_jk_ff);
+end
+endmodule
