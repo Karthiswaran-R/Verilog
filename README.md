@@ -28,7 +28,7 @@ Week 2: Sequential Circuits
     Day 10: Counters - Create an up-counter and down-counter.
     Day 11: Finite State Machines (FSMs) - Design a Moore FSM for a simple traffic light controller.
     Day 12: Memory - Implement a simple 4x4 RAM module.
-    Day 13: Clock Dividers - Create a clock divider to generate slower clock signals.
+    Day 13: Sequence Detector - 101 sequence detector.
     Day 14: Testbench Writing - Write testbenches for counters and FSMs.
 
 Week 3: Advanced Design Concepts
