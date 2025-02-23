@@ -29,7 +29,7 @@ Week 2: Sequential Circuits
     Day 11: Finite State Machines (FSMs) - Design a Moore FSM for a simple traffic light controller.
     Day 12: Memory - Implement a simple 4x4 RAM module.
     Day 13: Sequence Detector - 101 sequence detector.
-    Day 14 Challenge: Binary to Gray Code Converter & Testbench.
+    Day 14: Binary to Gray Code Converter & Testbench.
 
 Week 3: Advanced Design Concepts
 
