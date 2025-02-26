@@ -36,7 +36,7 @@ Week 3: Advanced Design Concepts
     Day 15: Arithmetic Circuits - Design a 4-bit adder/subtractor.
     Day 16: ALU - Create a basic Arithmetic Logic Unit (ALU) supporting ADD, SUB, AND, OR, and XOR operations.
     Day 17: Multipliers - Implement a 4x4 binary multiplier using shift-and-add.
-    Day 18: Sequential Multiplier - Design a sequential multiplier for the optimized area.
+    Day 18: 4-bit Parity Generator and Checker
     Day 19: Pipelining - Implement a 2-stage pipelined adder.
     Day 20: State Machine Design - Create an FSM for a vending machine.
     Day 21: Debugging Practice - Debug a provided faulty Verilog module.
