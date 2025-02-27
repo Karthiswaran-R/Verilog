@@ -1,4 +1,3 @@
-`timescale 1ns/1ps
 //test bench module declaration
 module tb_b2g;
 //port declaration
@@ -11,13 +10,13 @@ b2g #(.width(width)) dut (.b_in(b_in),.g_out(g_out));
 initial 
 begin
 $display("Binary | Gray Code");
-for (b_in = 0; b_in < 4'b1111; b_in = b_in + 1) 
+for(b_in = 4'b0000; b_in <= 4'b1111; b_in = b_in + 1) 
 begin
 #10;
 $display("   %b   |   %b", b_in,g_out);
-end
-$display("Test Completed!");
+if(b_in==4'b1111)
 $finish;
+end
 end
 //to generate waveform
 initial 
