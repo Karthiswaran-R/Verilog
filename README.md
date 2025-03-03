@@ -44,11 +44,11 @@ Week 3: Advanced Design Concepts
 Week 4: System Design and Optimization
 
     Day 22: UART Design - Implement a simple UART transmitter module.
-    Day 23: SPI Protocol - Create an SPI Master module.
-    Day 24: FIFO Buffers - Design a synchronous FIFO buffer.
-    Day 25: Parameterization - Write a parameterized MUX or counter.
-    Day 26: Low-Power Design - Implement clock gating for a circuit.
-    Day 27: Synthesis - Optimize a 4-bit ALU for area and timing constraints.
-    Day 28: Behavioral vs Structural Coding - Compare coding styles with a full adder circuit.
-    Day 29: Complex Design - Implement a mini RISC processor supporting a few basic instructions.
-    Day 30: Project Showcase - Combine your designs from previous days into a single cohesive project.
+    Day 23: Clock Pulse Generator - Create a simple circuit that generates a square wave using a counter.
+    Day 24: Basic Storage Element - Design a 4-bit D flip-flop module to store a 4-bit binary value.
+    Day 25: Parameterization - Write a simple 2-to-1 multiplexer (MUX) using Verilog with hardcoded inputs.
+    Day 26: Low-Power Design - Implement a basic enable signal for a counter to reduce unnecessary toggling.
+    Day 27: Synthesis - Synthesize a simple 2-bit adder and observe the generated hardware.
+    Day 28: Behavioral vs Structural Coding - Create a simple AND gate using both behavioral (assign) and structural (gate-level instantiation) methods.
+    Day 29: Simple Design - Create a 2-bit binary counter that can count up from 0 to 3 and reset to 0.
+    Day 30: Project Showcase - Combine the simple designs from previous days into a small project, like an LED blinker or a basic counter display.
