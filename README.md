@@ -48,7 +48,7 @@ Week 4: System Design and Optimization
     Day 24: Basic Storage Element - Design a 4-bit D flip-flop module to store a 4-bit binary value.
     Day 25: Parameterization - Write a simple 2-to-1 multiplexer (MUX) using Verilog with hardcoded inputs.
     Day 26: Low-Power Design - Implement a basic enable signal for a counter to reduce unnecessary toggling.
-    Day 27: Synthesis - Synthesize a simple 2-bit adder and observe the generated hardware.
+    Day 27: Implement a simple 2-bit bitwise reverser and observe its simulation results.
     Day 28: Behavioral vs Structural Coding - Create a simple AND gate using both behavioral (assign) and structural (gate-level instantiation) methods.
     Day 29: Simple Design - Create a 2-bit binary counter that can count up from 0 to 3 and reset to 0.
     Day 30: Project Showcase - Combine the simple designs from previous days into a small project, like an LED blinker or a basic counter display.
