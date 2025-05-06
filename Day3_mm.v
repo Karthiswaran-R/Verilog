@@ -1,3 +1,7 @@
+// AND gate delay = 2
+// NOT gate delay = 1
+// OR gate delay = 3
+
 //4x1mux 
 module mux4_1(y,i,s0,s1);  //module declaration
 input i,s0,s1;   //input declaration
