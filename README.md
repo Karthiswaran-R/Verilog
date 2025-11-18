@@ -1,8 +1,8 @@
-30-Day Verilog Challenge 🚀
+### 30-Day Verilog Challenge 
 
 Welcome to the 30-Day Verilog Challenge, a beginner-to-intermediate level challenge designed to help you master Verilog step by step. This repository provides daily tasks that gradually introduce new concepts in digital design, ensuring a solid foundation in Verilog programming.
 
-🎯 Objective
+### Objective
 
 By the end of this challenge, you will have:
 
